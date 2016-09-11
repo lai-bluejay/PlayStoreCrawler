@@ -1,5 +1,12 @@
+jobs/*
+/jobs
+.idea/*
 
-#********** python template********** 
+
+
+*.xml
+*.iml
+#********** python template**********
 
 *.py[cod]
 
